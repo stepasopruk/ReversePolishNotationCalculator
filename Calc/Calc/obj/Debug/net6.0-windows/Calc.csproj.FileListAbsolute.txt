@@ -1,0 +1,34 @@
+A:\0 Задание на работу\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+A:\0 Задание на работу\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+A:\0 Задание на работу\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+A:\0 Задание на работу\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+A:\0 Задание на работу\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+A:\0 Задание на работу\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
+A:\0TaskWork\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+A:\0TaskWork\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+A:\0TaskWork\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+A:\0TaskWork\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+A:\0TaskWork\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+A:\0TaskWork\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
